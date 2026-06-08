@@ -1,0 +1,20 @@
+/* sm */
+@media (min-width: 576px) {
+  body {
+    width: 25%;
+  }
+}
+
+/* md */
+@media (min-width: 768px) {
+  body {
+    width: 50%;
+  }
+}
+
+/* xl */
+@media (min-width: 1200px) {
+  body {
+    width: 100%;
+  }
+}
